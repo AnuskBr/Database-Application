@@ -31,4 +31,4 @@ In upcoming versions, the following improvements are planned:
 - Support for user reviews and ratings of attractions.
 - Enhanced filtering and sorting options for search results.
   
-For additional details about the application and its usage, please refer to the accompanying [documentation](Doc.docx).
+For additional details about the application and its usage, please refer to the accompanying [documentation](Doc.pdf).
